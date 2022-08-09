@@ -1,0 +1,55 @@
+
+.card{
+    display: grid;
+    margin:auto;
+    margin-top: 2rem;
+    border: 2px solid brown;
+    width: 28rem !important;
+    
+}
+
+#head{
+    margin-top :2rem;
+text-align: center;
+color: brown;
+text-decoration: underline;
+}
+
+.lable{
+    text-decoration: underline;
+    color: brown;
+    font-weight: bolder;
+text-align: center;
+margin: 8px 0px;
+font-size: 22px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.textarea{
+    margin: 0px 3px;
+    border: 1px solid grey ;
+    border-radius: 4px;
+    height: 3rem;
+    font-size: 25px;
+    width: 20rem;
+    margin: auto;
+    padding-left: 1rem;
+    
+}
+.textarea:hover{
+    border: 2px solid brown;
+    box-shadow: 2px 2px 7px brown;
+}
+#btn{
+    display: flex;
+    width: 8rem;
+    margin: 2px 3px;
+box-sizing: border-box;
+margin: auto;
+padding-left: 15px;
+font-size: larger;}
+
+#text{
+    margin-top: 1rem;
+}
+
